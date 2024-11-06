@@ -1,1 +1,1 @@
-## Static website for private clinic with mobile-responsive design
+## Static website for private clinic with responsive design
